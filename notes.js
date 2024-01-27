@@ -23,7 +23,7 @@
     
     let firstName = "Sharan"
     let lastName = "C M"
-    let age = 22
+    let age = 18
     let isMarried = true;
     if(isMarried == true)
     console.log(`This person name is ${firstName} ${lastName} and age is ${age} is Married`)
@@ -55,7 +55,7 @@
     const user1 = {
     firstName : 'Sharan',
     lastName : 'C M',
-    age : 23,
+    age : 15,
     gender : 'male'
     }  
     console.log(user1["firstName"]);
@@ -77,8 +77,8 @@
     },
     {
         firstName : 'Sunitha',
-        lastName : 'M',
-        age : 52,
+        lastName : 'MN',
+        age : 44,
         gender : 'female'
     }]
 
@@ -114,8 +114,8 @@
     },
     {
         firstName : 'Sunitha',
-        lastName : 'M',
-        age : 52,
+        lastName : 'MN',
+        age : 45,
         gender : 'female',
         metadata : {
             address : 'Vellore',
