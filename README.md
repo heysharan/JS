@@ -8,15 +8,15 @@ Hey there, I'm Sharan, and this repository documents my journey as I explore the
 Learning Path
 Milestones Achieved ✔️  
 DAY 0  
-[1] Basics of JavaScript: Navigated through the fundamentals, understanding variables, data types, and basic syntax.  
-[2] Loops Exploration: Mastered the art of repetition with loops, making my code more efficient.  
-[3] Function Fundamentals: Delved into functions, unlocking the power of reusable code blocks.  
-[4] Conditional Statements: Explored decision-making in JavaScript using conditional statements.  
-DAY 1  
-[5] Arrays Handling: Learned to work with arrays, organizing and manipulating collections of data.  
-[6] Objects Mastery: Understood the concept of objects, creating more complex data structures.  
-[7] Array of Objects or Object: Explored combining arrays and objects, a powerful duo in JavaScript.  
-[8] Tackled and solved coding problems! 💻  
+[1] Basics of JavaScript  
+[2] Loops Exploration   
+[3] Function Fundamentals  
+[4] Conditional Statements  
+DAY 1    
+[5] Arrays Handling  
+[6] Objects  
+[7] Array of Objects or Object  
+[8] Tackled and solved coding problems! 💻    
 
 Code Showcase
 Feel free to explore the code samples and projects in this repository. Each piece of code represents a step forward in my JavaScript learning journey.
